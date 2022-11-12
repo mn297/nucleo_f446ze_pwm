@@ -1,0 +1,2 @@
+../Drivers/CUSTOM/RoverArm.cpp:5:6:void RoverArm_init()	16	static
+../Drivers/CUSTOM/RoverArm.cpp:8:6:void RoverArm_start()	8	static

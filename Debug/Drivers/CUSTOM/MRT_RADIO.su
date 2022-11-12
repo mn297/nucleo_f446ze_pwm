@@ -1,0 +1,2 @@
+../Drivers/CUSTOM/MRT_RADIO.cpp:10:6:void MRT_RADIO_INIT()	4	static
+../Drivers/CUSTOM/MRT_RADIO.cpp:15:6:void MRT_RADIO_SEND()	4	static
